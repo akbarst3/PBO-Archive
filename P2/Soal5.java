@@ -1,3 +1,11 @@
+/**
+ * Menghitung jumlah dua angka.
+ *
+ * @param a angka pertama
+ * @param b angka kedua
+ * @return hasil penjumlahan a dan b
+ */
+
 import java.util.Scanner;
 
 public class Soal5 {
